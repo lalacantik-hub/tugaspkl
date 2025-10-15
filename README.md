@@ -1,4 +1,8 @@
-# tugaspkl
-1. buat folder dengan nama masing-masing di repository yang sudah saya buat
-2. di folder nama masing-masing silahkan kalian buat file dengan nama tugas-satu.php, tugas-dua.php dstnya..
-3. Sebelum di commint buat file php dulu, dengan nama tugas-satu.php, kemudian buat text di text field dengan text "tugas-satu-nama"
+# Tugas PKL
+A. Buat folder dengan nama masing-masing di dalam repository yang telah disediakan.
+Di dalam folder tersebut, buat file dengan nama:
+1. tugas-satu.php
+2. tugas-dua.php, dan seterusnya sesuai urutan tugas.
+B. Sebelum melakukan commit, buat terlebih dahulu file PHP dengan nama tugas-satu.php.
+C. Di dalam file tersebut, tuliskan teks berikut pada text field:
+"tugas-satu-nama"
