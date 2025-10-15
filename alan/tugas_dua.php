@@ -94,22 +94,6 @@
 
 
 
-    <main class="container mx-auto px-6 py-12">
-
-            <div class="">
-        
-        <header class="p-8 bg-[#1f2937] text-white">
-            <div class="flex items-center justify-between">
-                <div>
-                    <h1 class="text-4xl font-extrabold tracking-tight">ALAN RAJA ZULKIFLI</h1>
-                    <p class="text-xl font-medium text-gray-300 mt-1">Siswa Kelas 11 PPLG</p>
-                </div>
-                <div class="text-right">
-                   <img src="C:\pkn\WhatsApp Image 2025-10-08 at 19.29.42_cd7145e8.jpg" width="80px">
-                </div>
-            </div>
-        </header>
-
    
 
 
@@ -134,6 +118,22 @@
     </header>
 
 
+
+    <main class="container mx-auto px-6 py-12">
+
+            <div class="">
+        
+        <header class="p-8 bg-[#1f2937] text-white">
+            <div class="flex items-center justify-between">
+                <div>
+                    <h1 class="text-4xl font-extrabold tracking-tight">ALAN RAJA ZULKIFLI</h1>
+                    <p class="text-xl font-medium text-gray-300 mt-1">Siswa Kelas 11 PPLG</p>
+                </div>
+                <div class="text-right">
+                   <img src="C:\pkn\WhatsApp Image 2025-10-08 at 19.29.42_cd7145e8.jpg" width="80px">
+                </div>
+            </div>
+        </header>
 
         <section id="perbandingan" class="mb-20 text-center">
             <h2 class="text-4xl font-bold mb-4">Perbandingan Sistem Demokrasi di Indonesia</h2>
