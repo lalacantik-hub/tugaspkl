@@ -130,7 +130,7 @@
                     <p class="text-xl font-medium text-gray-300 mt-1">Siswa Kelas 11 PPLG</p>
                 </div>
                 <div class="text-right">
-                   <img src="alan/aset/gambar/WhatsApp Image 2025-10-08 at 19.29.42_cd7145e8.jpg" width="80px">
+                   <img src="aset/gambar/WhatsApp Image 2025-10-08 at 19.29.42_cd7145e8.jpg" width="80px">
                 </div>
             </div>
         </header>
