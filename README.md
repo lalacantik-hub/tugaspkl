@@ -16,7 +16,7 @@ Di dalam folder tersebut, buat file dengan nama:
 #===Tugas Jam pertama (10/16/2025) ===
 1. buat file tugas_keempat.php didalam folder masing-masing
 2. buat kodingan untuk input data siswa 
-`<form mothod="post">
+yaml <form mothod="post">
     <label>NIS</label>
     <input type="text" name="nis">
     <label>Nama</label>
