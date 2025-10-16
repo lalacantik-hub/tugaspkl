@@ -50,4 +50,22 @@ Di dalam folder tersebut, buat file dengan nama:
         $conn = new mysqli('localhost','root','rpl12345','db_datasiswa'); // untuk password sesuiakan dengan localserver masing-masing
    ?>
    ```
+5. Buka file `tugas-keempat.php` kemudian di line 1 `enter` kemudian masukan ketikan kode berikut :
+   ```php
+   <?php
+        include"koneksi.php";
+   if(isset($_POST['btn'])){
+       $a = $_POST['nis'];
+       $b = $_POST['nama'];
+       $c = $_POST['kelas']
+        $qry = $conn->query("......");// silahkan kalian buat query di titik-titik..
+   if($qry == true){
+        echo"<script>alert('Data Berhasil diinput....')</script>";
+   }else{
+        echo"<script>alert('Data gagal diinput....')</script>";
+       }      
+   }
+   ?>
+   ```
+6. untuk melihat hasilnya jalankan program kalian dilocal server masing-masing
 
