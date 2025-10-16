@@ -16,7 +16,7 @@ Di dalam folder tersebut, buat file dengan nama:
 #===Tugas Jam pertama (10/16/2025) ===
 1. buat file tugas_keempat.php didalam folder masing-masing
 2. buat kodingan untuk input data siswa 
-<form mothod="post">
+`<form mothod="post">
     <label>NIS</label>
     <input type="text" name="nis">
     <label>Nama</label>
@@ -24,7 +24,7 @@ Di dalam folder tersebut, buat file dengan nama:
     <label>Kelas</label>
     <input type="text" name="kelas">
     <button type="submit">Submit</button>
-</form> 
+</form>`
 3. jalankan programnya kemudian screenshoot hasilnya
 4. upload hasil screenshoot ke github..
 
