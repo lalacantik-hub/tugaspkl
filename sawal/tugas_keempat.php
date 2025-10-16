@@ -6,4 +6,4 @@
     <label>Kelas</label>
     <input type="text" name="kelas">
     <button type="submit">Submit</button>
-</form>`
+</form>
