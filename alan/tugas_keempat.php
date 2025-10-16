@@ -4,7 +4,7 @@
        $a = $_POST['nis'];
        $b = $_POST['nama'];
        $c = $_POST['kelas'];
-        $qry = $conn->query("......");// silahkan kalian buat query di titik-titik..
+        $qry = $conn->query("INSERT INTO tb_siswa(nis,nama,kelas) VALUES ('$a','$b','$c')");// silahkan kalian buat query di titik-titik..
    if($qry == true){
         echo"<script>alert('Data Berhasil diinput....')</script>";
    }else{
@@ -13,7 +13,7 @@
    }
    ?>
  
- <form mothod="post">
+ <form mothod="post">       
     <label>NIS</label>
     <input type="text" name="nis">
     <label>Nama</label>
