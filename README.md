@@ -18,7 +18,7 @@ Di dalam folder tersebut, buat file dengan nama:
 1. buat file tugas_keempat.php didalam folder masing-masing
 2. buat kodingan untuk input data siswa
    kode php
-```php
+```html
 <form mothod="post">
     <label>NIS</label>
     <input type="text" name="nis">
