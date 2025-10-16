@@ -1,3 +1,3 @@
 <?
-echo"Ikuti proses untuk menjadi orang sukses.."
+echo"Ikuti proses untuk menjadi orang sukses..";
 ?>
