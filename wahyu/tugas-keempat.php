@@ -12,7 +12,7 @@ if($qry == true){
     }      
 }
 ?>
-<form method="post">
+<form method="POST">
     <label>NIS</label>
     <input type="text" name="nis">
     <label>Nama</label>
