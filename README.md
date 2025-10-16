@@ -43,3 +43,11 @@ Di dalam folder tersebut, buat file dengan nama:
    kelas char(50)
    )
    ```
+3. buat file `koneksi.php` di folder masing-masing
+4. ketikan kode sebagai berikut:
+   ```php
+   <?php
+        $conn = new mysqli('localhost','root','rpl12345','db_datasiswa'); // untuk password sesuiakan dengan localserver masing-masing
+   ?>
+   ```
+5. 
