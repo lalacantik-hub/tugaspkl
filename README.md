@@ -34,11 +34,9 @@ Di dalam folder tersebut, buat file dengan nama:
    
    =======================================
    # Tugas Jam Ke 3,4 dan 5
-1. Buat database di phpmyadmin dengan dana db_datasiswa
+1. Buat database di phpmyadmin dengan nama `db_datasiswa`
 2. Buat tabel tb_siswa
    ```sql
-   CREATE DATABASE db_datasiswa;
-   
    CREATE tb_siswa(
    nis int(12) primary key,
    nama char(50),
