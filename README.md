@@ -10,6 +10,9 @@ Di dalam folder tersebut, buat file dengan nama:
 #===Tugas Jam ke-5(15/10/2025) ===
 1. buat file tugas_ketiga.php
    
+<<<<<<< HEAD
+3. Buatkan kode PHP  untuk menampilkan kata : "Ikuti proses untuk menjadi orang sukses..."
+=======
 3. Buatkan kode PHP  untuk menampilkan kata : "Ikuti proses untuk menjadi orang sukses..." 
 
 
@@ -27,4 +30,4 @@ yaml <form mothod="post">
 </form>`
 3. jalankan programnya kemudian screenshoot hasilnya
 4. upload hasil screenshoot ke github..
-
+>>>>>>> e9b086722312101f140fadf457719061d7dd200e
