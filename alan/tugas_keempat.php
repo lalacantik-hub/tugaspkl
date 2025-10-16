@@ -10,7 +10,6 @@
    }else{
         echo"<script>alert('Data gagal diinput....')</script>";
        }      
-   }
    ?>
  
  <form mothod="post">       
@@ -22,3 +21,6 @@
     <input type="text" name="kelas">
     <button type="submit">Submit</button>
 </form>
+<?php
+   }
+?>
