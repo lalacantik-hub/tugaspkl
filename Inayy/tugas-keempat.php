@@ -3,8 +3,8 @@
 if(isset($_POST['btn'])){
     $a = $_POST['nis'];
     $b = $_POST['nama'];
-    $c = $_POST['kelas']
-     $qry = $conn->query("......");// silahkan kalian buat query di titik-titik..
+    $c = $_POST['kelas'];
+     $qry = $conn->query("INSERT INTO tb_siswa(nis,nama,kelas) VALUES('a','b','c')");// silahkan kalian buat query di titik-titik..
 if($qry == true){
      echo"<script>alert('Data Berhasil diinput....')</script>";
 }else{
@@ -19,5 +19,5 @@ if($qry == true){
     <input type="text" name="nama">
     <label>Kelas</label>
     <input type="text" name="kelas">
-    <button type="submit" name="btn">Submit</button>
+    <button type="submit" name"btn">Submit</button>
 </form>
