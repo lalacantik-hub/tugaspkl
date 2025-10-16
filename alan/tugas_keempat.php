@@ -9,7 +9,9 @@
         echo"<script>alert('Data Berhasil diinput....')</script>";
    }else{
         echo"<script>alert('Data gagal diinput....')</script>";
-       }      
+     }
+   }
+
    ?>
  
  <form mothod="post">       
@@ -22,5 +24,4 @@
     <button type="submit">Submit</button>
 </form>
 <?php
-   }
 ?>
