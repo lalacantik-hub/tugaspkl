@@ -26,7 +26,7 @@ Di dalam folder tersebut, buat file dengan nama:
     <input type="text" name="nama">
     <label>Kelas</label>
     <input type="text" name="kelas">
-    <button type="submit">Submit</button>
+    <button type="submit" name="btn">Submit</button>
 </form>
 ```
 3. jalankan programnya kemudian screenshoot hasilnya
