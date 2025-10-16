@@ -50,4 +50,4 @@ Di dalam folder tersebut, buat file dengan nama:
         $conn = new mysqli('localhost','root','rpl12345','db_datasiswa'); // untuk password sesuiakan dengan localserver masing-masing
    ?>
    ```
-5. 
+
