@@ -30,4 +30,42 @@ Di dalam folder tersebut, buat file dengan nama:
 </form>
 ```
 3. jalankan programnya kemudian screenshoot hasilnya
-4. upload hasil screenshoot ke github..
+5. upload hasil screenshoot ke github..
+   
+   =======================================
+   # Tugas Jam Ke 3,4 dan 5
+1. Buat database di phpmyadmin dengan nama `db_datasiswa`
+2. Buat tabel tb_siswa
+   ```sql
+   CREATE tb_siswa(
+   nis int(12) primary key,
+   nama char(50),
+   kelas char(50)
+   )
+   ```
+3. buat file `koneksi.php` di folder masing-masing
+4. ketikan kode sebagai berikut:
+   ```php
+   <?php
+        $conn = new mysqli('localhost','root','rpl12345','db_datasiswa'); // untuk password sesuiakan dengan localserver masing-masing
+   ?>
+   ```
+5. Buka file `tugas-keempat.php` kemudian di line 1 `enter` kemudian masukan ketikan kode berikut :
+   ```php
+   <?php
+        include"koneksi.php";
+   if(isset($_POST['btn'])){
+       $a = $_POST['nis'];
+       $b = $_POST['nama'];
+       $c = $_POST['kelas']
+        $qry = $conn->query("......");// silahkan kalian buat query di titik-titik..
+   if($qry == true){
+        echo"<script>alert('Data Berhasil diinput....')</script>";
+   }else{
+        echo"<script>alert('Data gagal diinput....')</script>";
+       }      
+   }
+   ?>
+   ```
+6. untuk melihat hasilnya jalankan program kalian dilocal server masing-masing
+
