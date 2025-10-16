@@ -19,7 +19,7 @@ Di dalam folder tersebut, buat file dengan nama:
 2. buat kodingan untuk input data siswa
    kode php
 ```html
-<form mothod="post">
+<form method="post">
     <label>NIS</label>
     <input type="text" name="nis">
     <label>Nama</label>
