@@ -10,4 +10,4 @@ Di dalam folder tersebut, buat file dengan nama:
 #===Tugas Jam ke-5(15/10/2025) ===
 1. buat file tugas_ketiga.php
    
-3. Buatkan kode PHP  untuk menampilkan kata : "Ikuti proses untuk menjadi orang sukses..." 
+3. Buatkan kode PHP  untuk menampilkan kata : ".Ikuti proses untuk menjadi orang sukses.." 
