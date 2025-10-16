@@ -13,7 +13,7 @@
    }
    ?>
  
- <form mothod="post">
+ <form mothod="post">       
     <label>NIS</label>
     <input type="text" name="nis">
     <label>Nama</label>
