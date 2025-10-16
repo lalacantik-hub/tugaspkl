@@ -1,5 +1,5 @@
  <?php
-        include"koneksi.php";
+     include"koneksi.php";
    if(isset($_POST['btn'])){
        $a = $_POST['nis'];
        $b = $_POST['nama'];
