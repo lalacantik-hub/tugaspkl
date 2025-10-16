@@ -4,7 +4,8 @@
        $a = $_POST['nis'];
        $b = $_POST['nama'];
        $c = $_POST['kelas'];
-        $qry = $conn->query("......");// silahkan kalian buat query di titik-titik..
+        $qry = $conn->query("'$a','$b','$c'");
+        // silahkan kalian buat query di titik-titik..
    if($qry == true){
         echo"<script>alert('Data Berhasil diinput....')</script>";
    }else{
