@@ -11,3 +11,20 @@ Di dalam folder tersebut, buat file dengan nama:
 1. buat file tugas_ketiga.php
    
 3. Buatkan kode PHP  untuk menampilkan kata : "Ikuti proses untuk menjadi orang sukses..." 
+
+
+#===Tugas Jam pertama (10/16/2025) ===
+1. buat file tugas_keempat.php didalam folder masing-masing
+2. buat kodingan untuk input data siswa 
+<form mothod="post">
+    <label>NIS</label>
+    <input type="text" name="nis">
+    <label>Nama</label>
+    <input type="text" name="nama">
+    <label>Kelas</label>
+    <input type="text" name="kelas">
+    <button type="submit">Submit</button>
+</form> 
+3. jalankan programnya kemudian screenshoot hasilnya
+4. upload hasil screenshoot ke github..
+
