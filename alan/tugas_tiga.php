@@ -1,3 +1,3 @@
 <?php
-echo "masuk ga";
+echo "Ikuti proses untuk menjadi orang sukses...";
 ?>
