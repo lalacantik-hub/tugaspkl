@@ -30,7 +30,8 @@ Di dalam folder tersebut, buat file dengan nama:
 </form>
 ```
 3. jalankan programnya kemudian screenshoot hasilnya
-4. upload hasil screenshoot ke github..
+5. upload hasil screenshoot ke github..
+   
    =======================================
    # Tugas Jam Ke 3,4 dan 5
 1. Buat database di phpmyadmin dengan dana db_datasiswa
